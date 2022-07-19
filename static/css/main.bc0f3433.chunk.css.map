@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,WACE,wBAA6B","file":"main.bc0f3433.chunk.css","sourcesContent":["// Put styles here\n.is-active {\n  background-color: yellowgreen;\n}\n"]}
